@@ -11,12 +11,12 @@ Rules:
 
 # Game Start
 
-https://raw.github.com/uzeio/pig-game/master/img/start.png
+![Settings Window](https://raw.github.com/uzeio/pig-game/master/img/start.png)
 
 # Game Session
 
-https://raw.github.com/uzeio/pig-game/master/img/play.png
+![Settings Window](https://raw.github.com/uzeio/pig-game/master/img/play.png)
 
 # Game Winner
 
-https://raw.github.com/uzeio/pig-game/master/img/winner.png
+![Settings Window](https://raw.github.com/uzeio/pig-game/master/img/winner.png)
