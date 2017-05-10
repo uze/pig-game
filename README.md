@@ -9,13 +9,14 @@ Rules:
 - BUT, if the player rolles a 1 all of the points in the score box will be set to 0 and it will be the next players turn.
 - If the player chooses 'Hold' the current score in the score box will be added to the players total. After that, it's the next player's turn.
 
-(https://raw.github.com/uzeio/pig-game/img/start.png)
-(https://raw.github.com/uzeio/pig-game/img/play.png)
-(https://raw.github.com/uzeio/pig-game/img/winner.png)
+# Game Start
 
+(https://raw.github.com/uzeio/pig-game/master/img/start.png)
 
-![Alt text](/img/start.jpg?raw=true "Game Start")
+# Game Session
 
-![Alt text](/img/play.jpg?raw=true "Game Session")
+(https://raw.github.com/uzeio/pig-game/master/img/play.png)
 
-![Alt text](/img/winner.jpg?raw=true "Winner!")
+# Game Winner
+
+(https://raw.github.com/uzeio/pig-game/master/img/winner.png)
